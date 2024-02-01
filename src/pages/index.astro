@@ -21,57 +21,22 @@ Atualmente, sou estudante de Ciências da Computação e apaixonado por tecnolog
       </text>
     </div>
     <div class="mt-8">
-      <a class="btn" href="https://twitter.com/manuelernestog" target="_blank"> Let's connect!</a>
-      <a href="https://github.com/manuelernestog/astrofy" target="_blank" class="btn btn-outline ml-5">
-        Get This template
+      <a class="btn" href="https://instagram.com/ryaanbarros" target="_blank"> Instagram</a>
+      <a href="https://calendar.google.com/calendar/u/0?cid=MWY4OWNmZWRlZTFhOGU3NzRlMTFiZjU2ZmZiYzNjNTg3ODgxYjFmNGFmMWY2NDE2MjU1MDhlYmZmYjk3NDQyNkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t" target="_blank" class="btn btn-outline ml-5">
+        Agende uma reunião
       </a>
     </div>
   </div>
 
   <div>
-    <div class="text-3xl w-full font-bold mb-2">My last projects {"</>"}</div>
+    <div class="text-3xl w-full font-bold mb-2">Meus últimos projetos {"</>"}</div>
   </div>
 
   <HorizontalCard
-    title="Demo Project 1"
+    title="Cadastro de clientes - Ecommerce"
     img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
+    desc="Em desenvolvimento..."
+    url="https://banco-de-dados-nextjs.netlify.app/"
     badge="NEW"
   />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 2"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-  />
-  <div class="divider my-0"></div>
-  <HorizontalCard
-    title="Demo Project 3"
-    img="/post_img.webp"
-    desc="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    url="#"
-    badge="FOSS"
-  />
-
-  <div>
-    <div class="text-3xl w-full font-bold mb-5 mt-10">Latest from blog</div>
-  </div>
-
-  {
-    last_posts.map((post) => (
-      <>
-        <HorizontalCard
-          title={post.data.title}
-          img={post.data.heroImage}
-          desc={post.data.description}
-          url={"/blog/" + post.slug}
-          target="_self"
-          badge={post.data.badge}
-        />
-        <div class="divider my-0" />
-      </>
-    ))
-  }
 </BaseLayout>
