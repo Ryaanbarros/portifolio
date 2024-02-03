@@ -3,6 +3,7 @@ title: "Tendências e Inovações Tecnológicas que Moldarão o Futuro"
 description: "Descubra as novidades que estão moldando o futuro da tecnologia."
 pubDate: "Jan 31 2024"
 heroImage: "/tecnologia.jpg"
+badge: "Novo"
 tags: ["IA","ML"]
 ---
 

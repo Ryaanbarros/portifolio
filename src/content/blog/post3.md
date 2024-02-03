@@ -3,7 +3,6 @@ title: "Minha Jornada Rumo à Tecnologia: Paixão de Infância à Carreira Promi
 description: "A escolha da minha vida."
 pubDate: "Jan 20 2024"
 heroImage: "/criança.jpg"
-badge: "Novo"
 ---
 
 Desde os primeiros dias da minha infância, a tecnologia não foi apenas uma parte da minha vida, mas uma paixão ardente que moldou meu caminho e inspirou minha trajetória profissional. Me lembro das horas gastas em frente ao computador, não apenas como uma forma de entretenimento, era a entrada oficial no universo mágico da tecnologia.
