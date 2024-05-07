@@ -2,7 +2,7 @@
 title: "Projeto Tecnologia e seu Papel"
 description: "Um Projeto de Educação Tecnológica desenvolvido por mim, na Emeb Florestan Fernandes."
 pubDate: "05 07 2024"
-heroImage: "/tecnologia.jpg"
+heroImage: "/banner_criancass.jpg"
 badge: "Novo"
 tags: ["Tecnologia","Educação"]
 ---
