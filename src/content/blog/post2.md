@@ -34,13 +34,13 @@ Defini os objetivos gerais e específicos da atividade. Justifiquei a escolha da
     Imagem do banner em desenvolvimento.
 </object>
 </div>
-<object data="/public/projeto.jpg" type="image/jpg" width="400" height="400">
+<object data="/public/projeto.png" type="image/png" width="400" height="400">
     Imagem do banner finalizado.
 </object>
 <h3> Colocação do Banner na Escola </h3>
 Inicialmente escolhi uma sala de aula para que chamasse atenção dos alunos, passado alguns dias, pedi para o beneficiário da minha ação, que é uma orientadora da escola, realocar para um local de grande circulação na escola para expor o banner. Garanti que alunos, professores e inspetores pudessem acessá-lo facilmente.
 
-<img src="../public/banner_escola.jpeg" alt="Imagem do Projeto" width = "300">
+<img src="/public/banner_escola.jpeg" alt="Imagem do Projeto" width = "300">
 <h3> Feedback e Interação </h3>
 Após 15 dias de exposição, retornei à escola para obter feedback. Professores e alunos expressaram satisfação com o conteúdo do banner. As crianças se envolveram, comparando os personagens presentes no banner e trocando conhecimentos entre si.
 <br>
