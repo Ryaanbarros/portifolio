@@ -31,7 +31,7 @@ Defini os objetivos gerais e específicos da atividade. Justifiquei a escolha da
 <div class="image-container"><img src="/public/criacao.jpeg" 
 alt="Imagem do Projeto" width = "275">
 </div>
-<img src="/public/projeto.png" alt="Imagem do Projeto" width = "370">
+<img src="/public/projeto.jpg" alt="Imagem do Projeto" width = "370">
 <br>
 <h3> Colocação do Banner na Escola </h3>
 Inicialmente escolhi uma sala de aula para que chamasse atenção dos alunos, passado alguns dias, pedi para o beneficiário da minha ação, que é uma orientadora da escola, realocar para um local de grande circulação na escola para expor o banner. Garanti que alunos, professores e inspetores pudessem acessá-lo facilmente.
